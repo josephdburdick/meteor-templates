@@ -8,11 +8,14 @@ Repo of simple template features on Meteor.
 
 The following works on all supported platforms.
 
-- Install Meteor:
+Install Meteor:
   `$ curl https://install.meteor.com | /bin/sh`
-- Git da project:
+
+Git da project:
   `$ git clone https://github.com/josephdburdick/meteor-templates.git`
-- Change directory:   
+
+Change directory:   
   `$ cd meteor-templates`
-- Run it locally:
+
+Run it locally:
   `$ meteor`
