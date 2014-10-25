@@ -1,3 +1,4 @@
 Meteor.publish('posts', function() {
-  return Posts.find();
+	// https://book.discovermeteor.com/chapter/publications-and-subscriptions
+  return Posts.find({flagged: false});
 });
